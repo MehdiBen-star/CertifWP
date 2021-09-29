@@ -1,0 +1,47 @@
+/*
+Theme Name: astra-child
+Description: Theme enfant du theme astra
+Author: Water Saving
+Author URI: https://hooppi.com
+Template: astra
+Version: 0.1.0
+*/
+
+
+a.wop_cta {
+	border: 2px solid #3ca3da;
+	border-radius: 0.5em 0.5em 0.5em 0.5em;
+	display: inline-block;
+	font-size: 16px;
+	margin-top: 12px;
+	padding: 7px 9px;
+	text-transform: uppercase;
+	background-color: white;
+	color: #3ca3da;
+	font-weight: 700;
+	font-family: sans-serif;
+}
+
+a.wop_cta:hover {
+	background-color: #3ca3da;
+	color: white;
+}
+
+.plugin_wop {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	width: 100%;
+	background: linear-gradient(#84dae4, #deecc4);
+
+}
+
+.plugin_text_cta {
+	text-align: center;
+	width: 50%;
+	color: #3ca3da;
+	font-weight: bolder;
+	font-size: 1.2em;
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
